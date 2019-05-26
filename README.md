@@ -1,2 +1,3 @@
-# React-Context
-Simple example to understand the Context in React
+# React Context
+
+This is an example and a simple exercise to understand how the React Context works.
